@@ -1,4 +1,5 @@
 import "./notice_list.scss";
+import React from 'react';
 
 function Notice_list(props) {
   return (

@@ -1,4 +1,5 @@
 import "./notice_header.scss";
+import React from 'react';
 function Notice_header(props) {
   return (
     <div className="notice_header_container">

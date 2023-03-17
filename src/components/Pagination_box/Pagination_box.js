@@ -1,6 +1,6 @@
 import "./pagination_box.scss";
 import Pagination from "react-js-pagination";
-import { useState } from "react";
+import { useState, React } from "react";
 
 function Pagination_box() {
   const [page, setPage] = useState(1);
